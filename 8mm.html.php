@@ -59,7 +59,7 @@
   <tr>
     <td> 8</td>
 	<td> и более</td>
-	<td> 40000</td>
+	<td> 39000</td>
   </tr>
   <tr>
     <th colspan = "3">
